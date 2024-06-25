@@ -1,15 +1,15 @@
 window.config={
-    logo: 'https://img2.imgtp.com/2024/03/11/YzU8iDJp.png', // 网站logo
-    title:"AirBus", // 网站标题
-    host:"https://user.r8s.top/", // 后端接口地址
+    logo: 'https://3o.hk/images/2024/03/31/FilmCloudlogin.png', // 网站logo
+    title:"電影院 Film", // 网站标题
+    host:"https://my.filmcloud.shop/", // 后端接口地址
     storeHome: {
         title: '选择最适合你的订阅计划', // 套餐页标题
         description: '若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长，购买其他套餐则对原有订阅进行折抵' // 套餐页描述
     },
     SignPage: {
-        title: '覆盖全球的高速网络，您的高速旅程从 AirBus 开始', // 登录页标题
-        desc1: 'High-speed network covering the whole world', // 登录页描述1
-        desc2: 'Your high-speed journey starts with AirBus', // 登录页描述2
+        title: '“電影發明以後，人類的生命，比以前至少延長了3倍。”', // 登录页标题
+        desc1: 'No Film, No Life', // 登录页描述1
+        desc2: 'YiYi', // 登录页描述2
         inviteCodeEdit: false, // 是否允许用户修改邀请码
     },
     homeClient: {
